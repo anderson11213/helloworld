@@ -1,0 +1,11 @@
+def addition(a, b):
+    return a + b
+
+def main():
+    print("Hello, GitHub!")
+    result = addition(5, 3)
+    print("The result of the addition is:", result)
+
+
+if __name__ == "__main__":
+    main()
